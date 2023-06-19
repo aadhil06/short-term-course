@@ -12,8 +12,8 @@ __pycache__/
 *.log
 
 # Secret keys and sensitive information
-secret_key.txt
-settings.py
+# secret_key.txt
+# settings.py
 
 # Development files
 *.bak
@@ -24,10 +24,10 @@ settings.py
 .idea/
 
 # Static files (generated during development)
-/staticfiles/
+# /staticfiles/
 
 # Media files (user uploaded files)
-/media/
+# /media/
 
 # Compiled Python bytecode
 __pycache__/
