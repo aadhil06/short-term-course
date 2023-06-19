@@ -1,0 +1,49 @@
+# Django project files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.log
+
+# Secret keys and sensitive information
+secret_key.txt
+settings.py
+
+# Development files
+*.bak
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Static files (generated during development)
+/staticfiles/
+
+# Media files (user uploaded files)
+/media/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Dependency directories
+venv/
+env/
+pipenv/
+
+# Compiled translations
+locale/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
