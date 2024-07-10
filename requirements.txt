@@ -1,3 +1,0 @@
-Django==latest
-wheel==0.40.0
-pillow==9.5.0
